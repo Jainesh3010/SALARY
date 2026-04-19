@@ -1,0 +1,1001 @@
+age,experience,education,city,skills,salary
+21.0,3.0,Masters,Mumbai,python excel,925000
+46.0,6.9,Bachelors,Ahmedabad,ml python management leadership ai excel,910000
+43.0,8.5,Masters,Ahmedabad,dl sql ml excel management python powerbi,1235000
+46.0,7.7,None,Bangalore,python excel research dl leadership,925000
+39.0,10.8,Masters,Delhi,dl python management,1485000
+49.0,7.4,Bachelors,Hyderabad,leadership powerbi sql,910000
+39.0,6.3,Bachelors,Delhi,management leadership ml sql powerbi python research,1005000
+33.0,4.6,Bachelors,Bangalore,powerbi management,830000
+36.0,11.1,Masters,Pune,sql ml python powerbi leadership ai,1475000
+46.0,15.7,Bachelors,Hyderabad,research powerbi python,1310000
+49.0,5.4,Bachelors,Delhi,leadership powerbi python,835000
+47.0,17.7,Bachelors,Bangalore,python ai ml sql dl powerbi excel,1740000
+47.0,16.3,Bachelors,Pune,ml ai dl,1560000
+24.0,6.0,Masters,Mumbai,python ai management research dl,1185000
+,3.0,None,Pune,management ml powerbi dl,520000
+28.0,1.2,Masters,Delhi,ai dl,580000
+26.0,8.0,Bachelors,Pune,excel sql python management ai leadership powerbi,1050000
+47.0,13.9,Masters,Ahmedabad,dl python research sql powerbi ai excel,0
+,14.3,Masters,Bangalore,management ml sql dl,1680000
+48.0,2.5,Masters,Mumbai,sql powerbi,885000
+46.0,0.6,Masters,Delhi,leadership python,405000
+48.0,8.2,Bachelors,Delhi,sql python ml,1135000
+,9.0,Bachelors,Ahmedabad,management sql powerbi,1000000
+37.0,14.7,Masters,Mumbai,powerbi ai ml research python leadership,1590000
+31.0,10.6,Bachelors,Mumbai,python sql leadership excel dl,1205000
+37.0,5.1,Masters,Delhi,,1230000
+48.0,1.6,Masters,Hyderabad,python ai ml sql,855000
+33.0,9.7,None,Pune,management research ml,775000
+48.0,17.6,PhD,Delhi,dl ml python ai leadership sql,2000000
+48.0,19.7,Masters,Delhi,excel leadership sql powerbi ml,1860000
+39.0,13.1,Bachelors,Delhi,dl ai python powerbi ml sql,1550000
+22.0,4.0,Bachelors,Delhi,excel dl sql management python,855000
+44.0,17.0,Bachelors,Ahmedabad,sql excel ai leadership,1515000
+36.0,13.3,Bachelors,Bangalore,dl python ml excel sql ai powerbi,1595000
+33.0,15.0,Masters,Mumbai,dl excel ai powerbi leadership sql management,1715000
+39.0,4.6,Bachelors,Ahmedabad,sql python dl,740000
+20.0,2.0,Masters,Ahmedabad,dl ml ai management sql,885000
+28.0,10.0,Bachelors,Mumbai,dl ml sql,1200000
+37.0,19.0,Masters,Bangalore,dl python ai,1965000
+25.0,7.0,Masters,Hyderabad,management sql python excel,1060000
+,11.1,Bachelors,Pune,research excel sql powerbi ml dl ai,1285000
+41.0,11.6,Bachelors,Bangalore,powerbi dl ml python sql,0
+32.0,9.3,None,Bangalore,research ml python,1045000
+31.0,3.4,Bachelors,Delhi,,690000
+31.0,0.2,Masters,Pune,powerbi,325000
+47.0,10.9,Masters,Delhi,excel management python sql leadership,1275000
+26.0,0.4,Bachelors,Delhi,ml powerbi leadership,270000
+21.0,3.0,PhD,Ahmedabad,python research dl,1230000
+22.0,4.0,Bachelors,Bangalore,ai management dl,945000
+33.0,1.0,Masters,Mumbai,python excel,605000
+39.0,2.4,None,Hyderabad,powerbi excel python,365000
+49.0,12.8,Masters,Bangalore,ai excel leadership dl sql ml python,1810000
+45.0,9.3,Bachelors,Hyderabad,research excel python ml dl,1175000
+48.0,6.0,Bachelors,Pune,research powerbi sql,805000
+23.0,5.0,Bachelors,Hyderabad,,955000
+25.0,7.0,Bachelors,Hyderabad,research powerbi ml,810000
+42.0,3.8,Masters,Hyderabad,dl research,905000
+46.0,3.2,Masters,Bangalore,ai dl,1030000
+35.0,17.0,None,Mumbai,research excel python dl,1440000
+47.0,2.8,Bachelors,Mumbai,leadership powerbi sql excel,735000
+,16.8,Bachelors,Hyderabad,ml research python management dl powerbi sql,1620000
+33.0,1.1,Masters,Hyderabad,python sql management ml excel,540000
+47.0,12.1,None,Pune,sql dl powerbi,1100000
+43.0,1.3,Bachelors,Delhi,python sql powerbi excel,550000
+24.0,2.9,Masters,Mumbai,management dl ml ai,1165000
+26.0,1.9,Masters,Mumbai,,715000
+28.0,2.2,Masters,Mumbai,leadership powerbi ml python dl,1000000
+37.0,19.0,Bachelors,Bangalore,management ml excel dl leadership powerbi,1725000
+24.0,6.0,Masters,Bangalore,python research sql,1270000
+43.0,10.1,PhD,Hyderabad,dl python sql excel,1520000
+47.0,14.1,Masters,Bangalore,sql excel management python ml ai,1725000
+31.0,13.0,Masters,Hyderabad,ml python sql,1480000
+45.0,12.7,Masters,Bangalore,python sql management powerbi,1495000
+38.0,4.3,Masters,Pune,sql ml,940000
+29.0,11.0,Masters,Pune,excel ai python,1465000
+,19.6,None,Hyderabad,management leadership excel python,1470000
+26.0,0.8,Masters,Delhi,excel research,495000
+44.0,3.2,Masters,Pune,python management sql,880000
+28.0,10.0,Masters,Delhi,,1335000
+42.0,12.3,PhD,Ahmedabad,sql management ai,1675000
+45.0,1.0,Bachelors,Pune,ml management,360000
+,8.8,Masters,Bangalore,sql ai powerbi,1405000
+37.0,10.0,None,Bangalore,ai research ml python excel powerbi,1220000
+48.0,1.6,Bachelors,Mumbai,research management excel python,590000
+39.0,8.6,Bachelors,Bangalore,leadership excel ai,1100000
+30.0,12.0,Bachelors,Ahmedabad,excel leadership powerbi sql research,1090000
+28.0,9.6,Bachelors,Mumbai,ai dl research python powerbi management,1190000
+21.0,3.0,PhD,Delhi,ml management ai powerbi python,1390000
+28.0,10.0,Bachelors,Pune,ai research sql management,1075000
+38.0,18.5,Bachelors,Hyderabad,powerbi python management excel ml,1605000
+31.0,8.7,Masters,Ahmedabad,ml powerbi python,1255000
+39.0,16.4,Masters,Hyderabad,dl sql research powerbi management,1560000
+45.0,1.0,Masters,Bangalore,,650000
+25.0,7.0,Bachelors,Pune,python research dl sql management leadership ml,1055000
+22.0,4.0,Bachelors,Delhi,excel ai sql,820000
+43.0,8.1,Bachelors,Bangalore,python powerbi management sql ai excel,1250000
+22.0,1.1,Bachelors,Delhi,powerbi sql research,440000
+,6.1,Masters,Bangalore,ml powerbi ai excel,1165000
+50.0,19.4,Masters,Hyderabad,ml management leadership dl ai excel,1935000
+27.0,4.3,Bachelors,Mumbai,ai dl sql python,1010000
+49.0,6.7,PhD,Mumbai,excel powerbi sql research,1370000
+29.0,11.0,Masters,Delhi,ai python sql excel ml management,1545000
+48.0,17.3,Bachelors,Hyderabad,python management powerbi excel dl sql,1470000
+35.0,13.7,PhD,Pune,research excel ml python management sql ai,2000000
+24.0,6.0,Bachelors,Delhi,sql research python ai,1040000
+31.0,2.0,PhD,Bangalore,ai sql ml management research,1235000
+47.0,2.1,Bachelors,Pune,powerbi excel ai management python,655000
+41.0,7.6,Masters,Bangalore,excel leadership ai research python ml,1290000
+37.0,14.2,Bachelors,Mumbai,excel powerbi sql ml python,1565000
+27.0,7.3,Masters,Delhi,management ml dl sql excel,1175000
+43.0,16.8,Bachelors,Mumbai,ml ai management excel python sql,0
+46.0,1.2,Masters,Pune,research dl python ml sql,770000
+,14.1,Bachelors,Mumbai,python dl sql management ml,1585000
+30.0,2.1,Bachelors,Hyderabad,dl ml,665000
+27.0,6.6,None,Mumbai,dl python powerbi ml,875000
+25.0,7.0,Masters,Ahmedabad,research ml sql powerbi leadership python,1045000
+46.0,1.8,Masters,Ahmedabad,sql python management ai,635000
+,15.7,Masters,Mumbai,ml ai research powerbi,1765000
+27.0,9.0,PhD,Delhi,management ai leadership,1405000
+20.0,2.0,Bachelors,Bangalore,,600000
+35.0,12.3,None,Delhi,python research leadership ml sql powerbi excel,1255000
+44.0,9.0,Masters,Bangalore,leadership dl python excel ml research,1325000
+49.0,6.1,Masters,Pune,,1135000
+21.0,1.9,None,Bangalore,python dl excel powerbi,510000
+21.0,3.0,Bachelors,Pune,leadership powerbi excel research,645000
+47.0,11.5,Bachelors,Bangalore,python powerbi sql management excel,1320000
+33.0,15.0,Masters,Bangalore,dl management ai python sql ml,1815000
+43.0,11.5,Bachelors,Pune,sql research excel ai powerbi,1095000
+27.0,1.7,Bachelors,Delhi,excel ai python powerbi sql,630000
+24.0,0.9,Masters,Bangalore,,480000
+44.0,19.5,Bachelors,Mumbai,leadership research powerbi dl excel,1640000
+43.0,15.9,Bachelors,Delhi,management python dl,1520000
+47.0,19.7,Masters,Ahmedabad,ml python ai,1895000
+48.0,18.5,Bachelors,Pune,powerbi management python sql ml,1610000
+22.0,0.2,Bachelors,Hyderabad,leadership research python,315000
+43.0,12.5,Bachelors,Delhi,python powerbi ai,1250000
+44.0,10.0,Masters,Mumbai,ml management sql research leadership,1480000
+34.0,2.5,None,Hyderabad,ai excel dl ml,585000
+33.0,15.0,Bachelors,Mumbai,python research powerbi dl,1560000
+50.0,14.2,Masters,Delhi,ai leadership dl excel ml sql,1605000
+47.0,11.1,PhD,Bangalore,excel management python ai ml research,1745000
+35.0,10.6,Masters,Mumbai,ml leadership ai powerbi management python,1450000
+47.0,13.4,Bachelors,Mumbai,ml python powerbi sql ai excel,1540000
+46.0,4.7,Bachelors,Mumbai,excel management,795000
+29.0,2.2,Masters,Ahmedabad,ml ai,855000
+45.0,0.5,Bachelors,Pune,ai,255000
+20.0,1.1,None,Mumbai,powerbi leadership,245000
+35.0,15.9,Bachelors,Bangalore,python powerbi excel sql,1525000
+30.0,12.0,Bachelors,Mumbai,research powerbi sql dl python management,1405000
+,5.0,Bachelors,Delhi,excel leadership sql dl ml python ai,1010000
+22.0,4.0,Bachelors,Bangalore,ml python management research,935000
+28.0,9.5,Masters,Mumbai,research sql excel powerbi,1240000
+26.0,4.1,Masters,Mumbai,python sql,1175000
+23.0,5.0,Bachelors,Bangalore,ml research sql,935000
+39.0,6.9,Masters,Hyderabad,dl management ml excel,1170000
+29.0,11.0,Bachelors,Pune,powerbi research excel sql,1135000
+34.0,7.0,Bachelors,Mumbai,ml dl ai sql powerbi,1110000
+34.0,8.8,Bachelors,Hyderabad,dl excel management python,1065000
+33.0,2.1,None,Hyderabad,leadership management research,320000
+32.0,14.0,Masters,Mumbai,leadership powerbi dl sql ml python management,1710000
+43.0,20.0,Bachelors,Mumbai,research sql powerbi,1815000
+33.0,14.2,Bachelors,Delhi,sql management python powerbi leadership research,1305000
+34.0,3.4,Bachelors,Bangalore,ml powerbi,730000
+45.0,0.1,Bachelors,Hyderabad,excel powerbi,265000
+42.0,9.7,Bachelors,Ahmedabad,management powerbi ml python,1070000
+29.0,11.0,Masters,Mumbai,ml management sql,1475000
+38.0,1.2,Bachelors,Hyderabad,management powerbi,320000
+45.0,5.5,Bachelors,Hyderabad,management dl powerbi excel ai,735000
+38.0,5.2,Masters,Pune,excel ml powerbi research dl sql python,1100000
+43.0,3.5,Bachelors,Ahmedabad,research excel dl sql,695000
+21.0,3.0,Masters,Mumbai,management ml sql excel powerbi,965000
+21.0,3.0,Masters,Ahmedabad,research ai,730000
+32.0,8.2,Masters,Hyderabad,ml sql dl,1250000
+28.0,8.9,Masters,Delhi,,1335000
+26.0,6.0,Masters,Delhi,excel ai sql python,1205000
+27.0,9.0,Bachelors,Hyderabad,sql dl ai,0
+29.0,11.0,Masters,Hyderabad,sql ai powerbi dl ml,1505000
+29.0,0.4,Bachelors,Bangalore,management,250000
+43.0,15.3,Masters,Mumbai,python ml powerbi dl,0
+33.0,13.7,Bachelors,Pune,dl python excel sql,1330000
+23.0,4.4,Masters,Delhi,ai dl,1040000
+20.0,2.0,PhD,Bangalore,excel ml ai dl sql,1305000
+32.0,3.0,Bachelors,Mumbai,,710000
+36.0,7.2,Bachelors,Delhi,leadership dl sql powerbi python,1000000
+50.0,0.6,Bachelors,Bangalore,sql ml,380000
+46.0,0.6,None,Bangalore,research excel ai,225000
+47.0,11.2,Bachelors,Pune,dl management excel sql research,1040000
+42.0,5.6,None,Bangalore,management research python powerbi excel sql,660000
+26.0,6.3,Bachelors,Mumbai,dl sql leadership ai excel,1005000
+47.0,8.1,PhD,Ahmedabad,research powerbi dl management,1315000
+38.0,13.5,Masters,Bangalore,ml management python research,1635000
+44.0,13.0,Bachelors,Mumbai,python powerbi research sql excel dl,1450000
+34.0,16.0,Masters,Delhi,sql python excel management dl leadership,1755000
+46.0,7.1,None,Pune,ml python sql powerbi management,775000
+44.0,18.6,Masters,Bangalore,leadership ml dl,1920000
+37.0,13.0,Masters,Mumbai,python ml excel powerbi,1695000
+45.0,4.7,Bachelors,Bangalore,python research,975000
+38.0,13.2,Bachelors,Bangalore,sql ml leadership,1415000
+33.0,12.1,None,Bangalore,ml python research management,0
+31.0,13.0,PhD,Delhi,sql python excel,0
+43.0,2.3,None,Hyderabad,dl sql,455000
+49.0,7.0,Masters,Bangalore,management ai research sql powerbi python,1300000
+39.0,11.5,Masters,Mumbai,ai dl powerbi ml,1535000
+50.0,13.2,Masters,Hyderabad,ml dl python ai sql excel management,1680000
+33.0,15.0,PhD,Delhi,dl python leadership management ml,1825000
+31.0,1.6,Bachelors,Hyderabad,leadership powerbi python,435000
+20.0,2.0,Masters,Delhi,ai dl,880000
+24.0,6.0,Masters,Mumbai,dl powerbi leadership excel,1100000
+40.0,16.9,None,Delhi,,1300000
+22.0,4.0,Bachelors,Delhi,python research powerbi ai,905000
+23.0,4.2,Masters,Bangalore,sql excel dl ml ai,1100000
+27.0,9.0,Masters,Delhi,python ai dl management sql,1385000
+50.0,17.4,None,Pune,powerbi ai sql management leadership excel,1375000
+20.0,2.0,Masters,Delhi,dl python ml management,895000
+32.0,14.0,PhD,Mumbai,ai sql leadership research ml python excel,2000000
+26.0,8.0,Masters,Delhi,ai excel python research powerbi,1110000
+39.0,17.4,Masters,Pune,ml leadership ai research sql powerbi,1765000
+22.0,2.0,Bachelors,Bangalore,python ai powerbi leadership excel,765000
+45.0,11.4,Bachelors,Mumbai,research dl python excel sql,0
+36.0,5.2,None,Hyderabad,management research sql dl ml excel python,895000
+20.0,2.0,PhD,Pune,dl ai management,1015000
+40.0,2.9,Bachelors,Hyderabad,dl leadership research sql ml,775000
+25.0,7.0,Masters,Bangalore,python leadership powerbi excel,1165000
+45.0,11.5,Bachelors,Delhi,management ml dl ai,1275000
+38.0,11.1,Masters,Mumbai,ai python leadership sql,0
+46.0,7.6,Masters,Mumbai,sql management ml powerbi leadership ai,1360000
+23.0,5.0,PhD,Delhi,excel python ml dl,1375000
+30.0,1.4,PhD,Bangalore,management research sql,1000000
+41.0,18.7,Masters,Pune,powerbi research sql dl leadership ml,1850000
+21.0,3.0,Bachelors,Mumbai,excel sql dl,735000
+44.0,10.3,None,Mumbai,excel ml sql,1135000
+30.0,1.2,None,Bangalore,research excel ai dl,490000
+21.0,2.2,Bachelors,Bangalore,research sql ml excel powerbi,715000
+26.0,2.5,Masters,Pune,leadership ai,785000
+33.0,14.6,Masters,Bangalore,ml sql management dl python excel,1820000
+21.0,3.0,Bachelors,Mumbai,excel powerbi management research,705000
+47.0,11.3,Masters,Ahmedabad,python ml management,0
+39.0,3.1,Masters,Hyderabad,dl ai python,1025000
+47.0,10.0,Bachelors,Pune,powerbi dl research management excel,1000000
+20.0,2.0,Masters,Delhi,ai dl management,955000
+39.0,17.8,Bachelors,Pune,dl powerbi excel,1495000
+35.0,8.5,Masters,Bangalore,python research management sql leadership powerbi,1465000
+31.0,11.9,Masters,Mumbai,ml excel dl,1460000
+34.0,7.1,Masters,Hyderabad,research excel sql python ml leadership,1210000
+36.0,7.5,PhD,Mumbai,sql dl python ml ai powerbi research,1615000
+26.0,8.0,Bachelors,Bangalore,sql management research leadership python excel,1175000
+23.0,5.0,Bachelors,Mumbai,powerbi dl excel ai,860000
+34.0,9.4,Bachelors,Hyderabad,,1210000
+40.0,7.7,Bachelors,Delhi,excel ml python,1010000
+20.0,2.0,PhD,Mumbai,research ai dl sql,1215000
+,0.3,Masters,Mumbai,ai,510000
+25.0,7.0,Masters,Delhi,research leadership sql powerbi python ai dl,1390000
+35.0,1.4,Masters,Pune,powerbi management python,550000
+25.0,1.5,PhD,Mumbai,python ml management,915000
+,9.7,Bachelors,Delhi,python sql research ml excel,1080000
+27.0,6.0,Bachelors,Delhi,ai ml management sql,960000
+47.0,8.1,Masters,Delhi,dl python leadership,1160000
+27.0,2.5,Masters,Hyderabad,dl ai python sql research,1070000
+25.0,7.0,None,Ahmedabad,,785000
+43.0,9.6,Bachelors,Delhi,management excel research leadership,1090000
+45.0,14.8,Masters,Hyderabad,leadership sql dl management ml research python,1670000
+34.0,7.9,Bachelors,Mumbai,powerbi management research dl leadership,985000
+32.0,14.0,Bachelors,Mumbai,management ml dl leadership,1530000
+27.0,9.0,Bachelors,Delhi,research management excel powerbi sql,1065000
+47.0,4.2,None,Mumbai,powerbi ml python,800000
+45.0,5.7,Bachelors,Delhi,powerbi excel leadership sql python ai,1010000
+25.0,7.0,None,Mumbai,dl research sql python management excel ml,1050000
+30.0,8.4,PhD,Hyderabad,python ai powerbi ml sql,1580000
+20.0,2.0,Masters,Mumbai,python ai powerbi ml,920000
+26.0,8.0,Masters,Ahmedabad,excel sql python,1230000
+39.0,17.7,Bachelors,Pune,research management sql leadership dl,1575000
+27.0,9.0,Bachelors,Pune,ml sql management dl excel leadership python,1170000
+44.0,9.0,Bachelors,Mumbai,ai management powerbi,1135000
+24.0,1.7,Bachelors,Bangalore,dl research sql leadership ml,0
+25.0,7.0,Masters,Hyderabad,python powerbi dl sql ml excel,1260000
+34.0,16.0,Masters,Delhi,ai ml python,1780000
+21.0,3.0,None,Bangalore,sql python research excel management,730000
+41.0,2.8,Masters,Bangalore,ml ai,1010000
+,7.0,Masters,Bangalore,management python powerbi,1175000
+36.0,15.4,Masters,Mumbai,ml sql powerbi leadership,1745000
+25.0,6.2,Bachelors,Bangalore,excel management dl leadership,885000
+46.0,18.2,Masters,Delhi,ml python research sql ai leadership,1920000
+25.0,7.0,Bachelors,Ahmedabad,management python ml sql,930000
+39.0,11.8,None,Delhi,python ai research ml,1180000
+49.0,5.9,Bachelors,Bangalore,excel sql python management,1080000
+42.0,0.8,Bachelors,Delhi,leadership,230000
+46.0,17.3,None,Ahmedabad,excel management python ai sql,1425000
+27.0,1.1,Bachelors,Pune,management powerbi excel,315000
+21.0,3.0,Bachelors,Bangalore,,875000
+38.0,8.4,Masters,Mumbai,ai python ml leadership research management,1365000
+21.0,3.0,None,Bangalore,research sql powerbi leadership,650000
+36.0,2.0,Bachelors,Hyderabad,excel ai management dl,650000
+36.0,3.0,Masters,Bangalore,powerbi python ai,1090000
+42.0,4.3,Masters,Hyderabad,dl management leadership ai,0
+46.0,3.1,PhD,Ahmedabad,dl ai sql excel ml,1350000
+40.0,2.0,Masters,Pune,leadership sql management ml,965000
+42.0,0.7,Bachelors,Pune,ai,200000
+36.0,18.0,Masters,Mumbai,powerbi ai python,1895000
+27.0,9.0,Masters,Bangalore,sql leadership dl,1280000
+34.0,16.0,Masters,Ahmedabad,ml ai excel python leadership powerbi research,1590000
+49.0,16.9,None,Bangalore,sql excel management ml research dl,1470000
+44.0,13.1,None,Ahmedabad,leadership powerbi python ai management sql,1155000
+25.0,7.0,Bachelors,Hyderabad,dl ml powerbi python excel leadership,930000
+43.0,14.0,PhD,Bangalore,sql ai powerbi ml dl python research,2000000
+27.0,9.0,Bachelors,Delhi,sql excel powerbi leadership python,1120000
+46.0,5.3,PhD,Mumbai,dl excel management sql ai python,1480000
+28.0,1.7,Bachelors,Bangalore,management python powerbi,485000
+40.0,12.3,Masters,Hyderabad,management ml research ai dl python,1605000
+45.0,9.7,Bachelors,Mumbai,ml dl powerbi excel,1190000
+40.0,17.0,Bachelors,Delhi,research ml dl leadership excel powerbi,1515000
+30.0,12.0,Masters,Bangalore,powerbi leadership sql management,1465000
+49.0,8.8,Masters,Mumbai,ai ml management research,1375000
+48.0,8.3,Bachelors,Delhi,python dl research management,980000
+21.0,3.0,Bachelors,Ahmedabad,excel ai,590000
+31.0,12.9,Bachelors,Hyderabad,powerbi excel sql management research leadership,1075000
+32.0,3.6,Masters,Delhi,dl management python ai excel,970000
+30.0,10.6,Masters,Delhi,ml excel python,1405000
+29.0,9.9,PhD,Mumbai,excel leadership powerbi,0
+44.0,5.1,Masters,Mumbai,python excel management ml,1130000
+24.0,6.0,PhD,Delhi,dl management leadership,1325000
+23.0,1.1,Masters,Pune,research excel ai,540000
+,7.8,Bachelors,Delhi,powerbi leadership excel research,1095000
+38.0,12.4,None,Bangalore,python powerbi ai dl excel sql management,1375000
+31.0,2.7,Masters,Mumbai,python excel,930000
+33.0,0.7,Bachelors,Pune,sql management ml,295000
+33.0,13.6,Masters,Delhi,powerbi ml research,1435000
+43.0,11.9,Masters,Delhi,powerbi dl ml sql ai,1565000
+,14.9,Bachelors,Mumbai,excel management dl python ai sql,1575000
+41.0,14.5,Bachelors,Bangalore,management ml ai dl powerbi excel,1525000
+,18.2,Masters,Bangalore,powerbi ai dl ml,1915000
+20.0,2.0,Masters,Hyderabad,ai dl management leadership,870000
+43.0,0.5,Bachelors,Mumbai,ml,375000
+44.0,15.1,Masters,Bangalore,python dl powerbi,1740000
+25.0,7.0,None,Mumbai,python ml leadership excel dl research ai,1010000
+28.0,10.0,Bachelors,Hyderabad,ml sql ai excel management powerbi python,1140000
+21.0,3.0,Bachelors,Bangalore,excel ai python,760000
+43.0,11.0,Masters,Mumbai,ml dl research excel python leadership management,1540000
+45.0,14.5,Bachelors,Pune,python research powerbi,1295000
+25.0,7.0,Masters,Mumbai,excel dl sql python,1270000
+36.0,15.5,Bachelors,Delhi,python ml sql powerbi excel,1550000
+49.0,2.4,Masters,Pune,python sql leadership ml excel,1115000
+21.0,0.9,Masters,Hyderabad,ml excel,455000
+47.0,14.2,Bachelors,Mumbai,leadership research sql management,1220000
+35.0,3.1,PhD,Delhi,management excel sql ml,1270000
+49.0,12.0,Bachelors,Bangalore,management python leadership,1305000
+24.0,6.0,PhD,Delhi,excel ai python ml,1415000
+40.0,2.5,Masters,Mumbai,python excel ai management,860000
+35.0,1.1,Masters,Mumbai,,610000
+50.0,5.1,Bachelors,Hyderabad,sql python research ml dl leadership management,985000
+47.0,10.6,Bachelors,Mumbai,powerbi research python excel management ai,1115000
+28.0,4.5,Masters,Delhi,leadership powerbi ml sql ai,1080000
+43.0,6.3,Bachelors,Delhi,powerbi sql dl excel ai management leadership,1065000
+38.0,5.2,Masters,Pune,python ai sql excel dl,1095000
+31.0,11.3,Bachelors,Bangalore,ml ai python powerbi,1425000
+28.0,7.7,None,Mumbai,powerbi ml management sql python,1075000
+44.0,11.0,PhD,Pune,python ai ml management dl sql leadership,1755000
+32.0,0.3,Bachelors,Mumbai,sql python dl,355000
+43.0,18.0,Bachelors,Ahmedabad,ml management excel,1490000
+29.0,3.0,Bachelors,Delhi,powerbi management sql excel,780000
+43.0,18.5,Bachelors,Pune,sql powerbi dl python,1540000
+28.0,5.6,Bachelors,Pune,python ml ai excel sql,1010000
+,5.6,Masters,Delhi,excel ai research dl,1150000
+30.0,8.4,Bachelors,Pune,excel dl python research ml leadership,1065000
+28.0,5.1,Masters,Delhi,,1040000
+33.0,12.2,PhD,Hyderabad,,1625000
+50.0,14.1,Masters,Delhi,sql python dl excel,1635000
+41.0,16.8,None,Mumbai,sql excel dl,1385000
+38.0,8.1,Masters,Hyderabad,sql ai ml excel dl,1330000
+48.0,6.5,Masters,Bangalore,ai python powerbi leadership research sql management,1325000
+21.0,3.0,Bachelors,Pune,powerbi dl research excel ml,695000
+31.0,13.0,Masters,Bangalore,excel management ai,1480000
+47.0,1.0,Bachelors,Mumbai,excel ai,425000
+49.0,13.0,PhD,Mumbai,excel ai leadership sql ml,1860000
+21.0,3.0,Bachelors,Bangalore,excel leadership,815000
+50.0,17.5,Masters,Bangalore,ml python management sql,0
+47.0,7.1,PhD,Mumbai,sql powerbi research ai,0
+38.0,8.5,Masters,Ahmedabad,python leadership powerbi ml ai sql,1245000
+21.0,3.0,PhD,Bangalore,ml excel,1185000
+,4.1,Bachelors,Mumbai,sql leadership,810000
+40.0,12.2,Bachelors,Bangalore,python leadership powerbi excel dl,1305000
+22.0,4.0,PhD,Delhi,ai python leadership,1180000
+28.0,10.0,Bachelors,Bangalore,ml powerbi python excel,1255000
+,6.2,Bachelors,Ahmedabad,ai excel sql,895000
+29.0,11.0,Bachelors,Delhi,sql ml excel management,1150000
+24.0,6.0,None,Delhi,ml leadership powerbi python research,795000
+26.0,0.7,Bachelors,Hyderabad,research management,200000
+28.0,10.0,Bachelors,Pune,research sql ml excel,1070000
+49.0,2.7,Bachelors,Pune,research sql,655000
+21.0,3.0,Bachelors,Mumbai,excel ml powerbi management sql,845000
+22.0,4.0,None,Delhi,management excel,560000
+48.0,11.4,Bachelors,Delhi,powerbi ml ai research,1170000
+40.0,0.3,Bachelors,Delhi,ai research,365000
+42.0,10.9,Bachelors,Mumbai,leadership research python ml sql powerbi excel,1360000
+26.0,8.0,Masters,Hyderabad,excel management python,1000000
+22.0,4.0,None,Bangalore,ai leadership,750000
+42.0,6.3,PhD,Mumbai,ai sql dl leadership,1455000
+28.0,10.0,Masters,Mumbai,,1320000
+47.0,15.5,Masters,Mumbai,sql python dl management ai,1920000
+,1.3,Masters,Hyderabad,dl leadership sql management,635000
+32.0,10.4,Masters,Mumbai,management powerbi python sql,1465000
+43.0,9.2,Masters,Mumbai,dl leadership ai sql,1440000
+35.0,6.4,Bachelors,Delhi,dl excel research management,835000
+23.0,5.0,Bachelors,Bangalore,powerbi excel python research ml,975000
+32.0,4.2,Bachelors,Bangalore,research powerbi ml,775000
+45.0,15.3,Bachelors,Ahmedabad,powerbi research leadership ai excel python,1305000
+46.0,16.4,Masters,Delhi,dl sql excel management ml leadership,1745000
+23.0,5.0,Masters,Bangalore,leadership research dl python powerbi excel,1145000
+29.0,11.0,Masters,Delhi,python management excel sql research,1375000
+47.0,2.2,Bachelors,Delhi,ml python excel,755000
+34.0,14.1,Masters,Delhi,management python ml,1500000
+46.0,8.5,Masters,Bangalore,python leadership excel dl,1325000
+24.0,3.9,Bachelors,Ahmedabad,sql python management ml,700000
+39.0,16.1,Masters,Hyderabad,ml python powerbi ai sql excel,1775000
+33.0,12.4,Masters,Bangalore,dl sql research ml,1595000
+33.0,6.7,Bachelors,Bangalore,python sql management powerbi excel,1085000
+50.0,3.4,Masters,Pune,ai excel,880000
+47.0,0.1,Masters,Mumbai,sql dl,0
+45.0,4.8,Bachelors,Ahmedabad,research ai python leadership excel,685000
+35.0,16.6,Masters,Bangalore,ai excel ml leadership powerbi,1775000
+24.0,6.0,Masters,Mumbai,python dl ml sql excel,1230000
+45.0,1.9,Bachelors,Bangalore,python excel leadership ml,600000
+24.0,6.0,Bachelors,Hyderabad,ml dl powerbi ai,905000
+27.0,6.4,Bachelors,Pune,,1040000
+20.0,2.0,Bachelors,Mumbai,excel python dl powerbi sql,810000
+22.0,2.8,Bachelors,Bangalore,powerbi ml,725000
+29.0,11.0,Bachelors,Hyderabad,sql dl excel python,1230000
+25.0,7.0,Bachelors,Mumbai,python ai excel management powerbi,1180000
+43.0,16.3,Bachelors,Hyderabad,ai python dl ml sql,1685000
+36.0,1.6,Masters,Ahmedabad,dl sql ml research,710000
+41.0,1.5,Masters,Pune,,655000
+25.0,6.1,Bachelors,Ahmedabad,ai python powerbi excel management,835000
+26.0,8.0,Bachelors,Bangalore,python excel sql research,0
+43.0,0.4,None,Hyderabad,python powerbi research,270000
+50.0,2.8,Bachelors,Hyderabad,leadership research,615000
+24.0,6.0,Bachelors,Ahmedabad,dl sql management ml,845000
+24.0,6.0,Masters,Delhi,dl ml sql,1230000
+31.0,13.0,Masters,Delhi,sql python ml leadership research powerbi dl,1635000
+44.0,10.0,PhD,Bangalore,ai ml management python excel,1675000
+41.0,3.8,Bachelors,Mumbai,ml excel ai sql python,965000
+46.0,8.5,Bachelors,Delhi,ai dl sql python management ml,1290000
+29.0,11.0,Masters,Delhi,sql leadership excel dl,1420000
+28.0,8.3,None,Pune,ml python sql,925000
+42.0,6.1,None,Hyderabad,dl sql powerbi,670000
+22.0,4.0,Masters,Delhi,sql ml powerbi leadership,925000
+44.0,1.1,Masters,Mumbai,leadership dl management ml,565000
+27.0,9.0,Bachelors,Delhi,management sql excel research,1015000
+44.0,7.1,Bachelors,Hyderabad,excel leadership python,905000
+45.0,0.7,Bachelors,Bangalore,python ai leadership,385000
+24.0,6.0,Bachelors,Bangalore,sql powerbi research excel python management,0
+34.0,16.0,PhD,Hyderabad,management ml ai leadership,1870000
+35.0,3.1,Masters,Hyderabad,sql ai management,1010000
+41.0,7.6,Masters,Delhi,python management ai ml dl,1210000
+24.0,5.9,Bachelors,Pune,research powerbi leadership excel ml dl,835000
+38.0,15.3,Bachelors,Delhi,dl powerbi management leadership python,1510000
+,2.0,None,Bangalore,powerbi ai python research,630000
+49.0,9.6,PhD,Bangalore,dl management ai,1715000
+39.0,8.6,Bachelors,Pune,sql dl excel python powerbi,1130000
+41.0,13.7,Bachelors,Delhi,python powerbi dl leadership sql,1400000
+48.0,10.4,Masters,Hyderabad,,1375000
+50.0,9.1,Masters,Hyderabad,,1340000
+50.0,4.1,Masters,Mumbai,excel dl python leadership management,0
+45.0,12.5,None,Delhi,sql leadership dl,1205000
+48.0,3.9,Bachelors,Delhi,,945000
+40.0,4.2,Masters,Delhi,excel sql dl python,975000
+31.0,4.8,Bachelors,Ahmedabad,dl excel,750000
+32.0,14.0,PhD,Mumbai,sql python dl research ai,1980000
+35.0,17.0,None,Pune,sql ai powerbi ml excel management python,1495000
+33.0,15.0,PhD,Bangalore,ai dl excel ml,1855000
+26.0,8.0,Bachelors,Hyderabad,management python powerbi research excel,955000
+44.0,16.0,Bachelors,Hyderabad,ml ai python excel management sql,1565000
+49.0,8.6,Masters,Delhi,ai python ml sql excel dl leadership,1355000
+39.0,11.2,Bachelors,Hyderabad,management python ml sql research excel leadership,1265000
+48.0,7.9,Bachelors,Mumbai,ml powerbi management python sql dl excel,1135000
+45.0,0.8,Bachelors,Hyderabad,excel powerbi management,260000
+21.0,3.0,Bachelors,Pune,research python excel ml powerbi,755000
+25.0,7.0,Masters,Delhi,python ml powerbi ai dl excel management,1305000
+20.0,2.0,Masters,Delhi,dl sql,925000
+41.0,10.1,None,Mumbai,python management excel leadership sql ml dl,1125000
+26.0,6.3,Bachelors,Hyderabad,excel management leadership sql,870000
+48.0,6.3,Masters,Bangalore,python powerbi excel,1090000
+50.0,6.7,Bachelors,Pune,powerbi sql management excel,880000
+28.0,10.0,Bachelors,Bangalore,ml dl management python excel sql,1285000
+50.0,2.2,None,Ahmedabad,ai management dl sql leadership,390000
+44.0,9.0,PhD,Bangalore,powerbi python research dl,1565000
+22.0,2.2,Masters,Pune,python research,880000
+45.0,0.7,Bachelors,Bangalore,sql powerbi,370000
+43.0,2.9,Masters,Bangalore,dl ai,1090000
+40.0,6.7,Bachelors,Delhi,leadership sql management research excel ml,960000
+46.0,6.0,Bachelors,Delhi,sql powerbi dl excel research,930000
+25.0,7.0,Masters,Delhi,ml dl excel management,1120000
+47.0,9.6,Masters,Delhi,leadership sql python research,0
+,15.0,Bachelors,Pune,sql leadership python excel dl ai management,1515000
+22.0,4.0,Bachelors,Mumbai,research python sql excel,850000
+24.0,6.0,Masters,Bangalore,ml management excel sql dl,1190000
+26.0,8.0,PhD,Ahmedabad,powerbi dl management python ai,1440000
+,3.5,Bachelors,Mumbai,sql dl leadership management powerbi,800000
+22.0,4.0,None,Ahmedabad,management powerbi excel leadership python,435000
+42.0,10.1,PhD,Bangalore,powerbi python dl leadership ml,1665000
+47.0,12.6,Masters,Pune,dl powerbi sql python leadership,1440000
+44.0,7.5,Masters,Bangalore,python powerbi ml dl excel management sql,1475000
+47.0,1.9,Bachelors,Hyderabad,sql research,590000
+30.0,1.7,Masters,Mumbai,research ai python dl sql,750000
+29.0,4.3,Bachelors,Mumbai,leadership ai dl,860000
+48.0,12.6,PhD,Pune,research python powerbi ml dl leadership sql,1900000
+23.0,5.0,None,Hyderabad,excel sql python management,685000
+30.0,9.4,Bachelors,Hyderabad,management python excel sql ai,1300000
+29.0,11.0,None,Delhi,dl management research excel,1000000
+22.0,4.0,None,Delhi,research sql ai,625000
+34.0,16.0,Bachelors,Bangalore,python sql ai management research dl ml,1800000
+37.0,3.4,Bachelors,Ahmedabad,ml powerbi,670000
+35.0,9.9,Bachelors,Mumbai,ml python powerbi ai sql management,1350000
+27.0,1.8,None,Hyderabad,python dl powerbi leadership,315000
+29.0,4.8,PhD,Ahmedabad,ai ml,1325000
+41.0,11.6,Bachelors,Bangalore,ml ai sql,1370000
+29.0,11.0,Bachelors,Bangalore,ai sql python dl research,1390000
+48.0,17.2,Bachelors,Mumbai,excel dl research management leadership,1515000
+38.0,6.1,Bachelors,Bangalore,ml sql python excel powerbi,0
+28.0,3.6,None,Mumbai,dl ai,705000
+48.0,16.5,Masters,Ahmedabad,,1725000
+31.0,13.0,Bachelors,Ahmedabad,research powerbi ai,1090000
+32.0,14.0,Bachelors,Hyderabad,ml dl sql ai leadership,1475000
+30.0,2.2,Masters,Ahmedabad,ml leadership management,790000
+47.0,6.0,Bachelors,Mumbai,excel dl leadership python powerbi management research,920000
+38.0,10.3,Bachelors,Hyderabad,powerbi excel research,895000
+46.0,2.3,Bachelors,Delhi,python ml,630000
+41.0,4.9,Bachelors,Pune,leadership python excel,745000
+49.0,0.9,Bachelors,Ahmedabad,sql powerbi,220000
+24.0,6.0,Bachelors,Mumbai,management dl leadership powerbi excel research sql,950000
+33.0,3.4,Bachelors,Mumbai,sql powerbi,775000
+32.0,5.0,Bachelors,Delhi,,800000
+21.0,3.0,None,Mumbai,sql excel,700000
+50.0,14.5,Bachelors,Delhi,research management excel dl,1330000
+27.0,9.0,PhD,Ahmedabad,research python ml ai excel powerbi dl,1650000
+27.0,2.8,Masters,Mumbai,research python dl,1025000
+30.0,12.0,Bachelors,Mumbai,sql leadership ml dl python ai,1480000
+41.0,19.4,Masters,Mumbai,excel python management ml sql dl powerbi,1940000
+35.0,2.2,Bachelors,Hyderabad,ai research sql python powerbi,810000
+32.0,7.8,Bachelors,Ahmedabad,excel powerbi management dl sql python ml,1065000
+32.0,6.7,Bachelors,Delhi,excel research leadership python powerbi ai sql,985000
+34.0,4.9,Masters,Delhi,ai leadership ml,1085000
+22.0,4.0,PhD,Bangalore,ai ml excel,1285000
+43.0,2.8,PhD,Mumbai,python leadership ml,1265000
+44.0,12.2,Masters,Bangalore,,1595000
+44.0,3.2,Bachelors,Hyderabad,management powerbi dl leadership,775000
+22.0,4.0,Bachelors,Bangalore,powerbi sql python,915000
+31.0,8.6,Bachelors,Ahmedabad,powerbi management sql python ai leadership,1050000
+21.0,3.0,Bachelors,Mumbai,python leadership,705000
+48.0,0.3,Masters,Delhi,sql ml ai,500000
+22.0,2.1,Bachelors,Bangalore,,725000
+34.0,14.0,Bachelors,Hyderabad,ml research dl,1280000
+29.0,7.1,Bachelors,Bangalore,research excel powerbi ml python dl ai,1180000
+26.0,8.0,Bachelors,Mumbai,sql dl excel ml leadership research,1175000
+43.0,12.6,Bachelors,Bangalore,python leadership powerbi dl ml excel sql,1600000
+34.0,5.8,None,Bangalore,research ai management sql,825000
+26.0,8.0,Bachelors,Mumbai,python powerbi management ml ai dl excel,1210000
+35.0,0.0,Masters,Ahmedabad,ml,370000
+44.0,10.3,PhD,Hyderabad,python dl ai,0
+21.0,3.0,Bachelors,Delhi,python management research sql,895000
+38.0,19.0,Masters,Hyderabad,ml sql research ai python powerbi excel,1940000
+49.0,1.5,Masters,Mumbai,sql management dl,760000
+50.0,8.8,Masters,Pune,python powerbi sql ml management dl leadership,1285000
+30.0,12.0,Bachelors,Delhi,management sql ai ml python excel,1345000
+47.0,10.0,None,Pune,powerbi ml research sql excel management,875000
+32.0,9.0,None,Bangalore,excel sql management ai powerbi python ml,1190000
+40.0,16.2,Masters,Ahmedabad,dl sql powerbi,1555000
+38.0,4.5,None,Pune,excel ai,615000
+50.0,4.4,Bachelors,Bangalore,sql research,935000
+46.0,9.8,None,Hyderabad,dl ai powerbi,915000
+29.0,7.9,Masters,Delhi,python ml management powerbi,1215000
+38.0,12.8,Bachelors,Mumbai,research powerbi ai ml dl python,1485000
+32.0,7.8,Bachelors,Delhi,management ml powerbi research dl python ai,1105000
+47.0,9.5,Bachelors,Bangalore,,1105000
+34.0,0.4,Bachelors,Hyderabad,ai powerbi management,205000
+47.0,15.4,Masters,Bangalore,ml management python,1710000
+24.0,5.9,Bachelors,Bangalore,sql python ml powerbi,1060000
+30.0,8.9,Masters,Bangalore,sql ml python ai dl leadership excel,1615000
+24.0,4.9,Bachelors,Delhi,powerbi python dl,805000
+,15.6,Bachelors,Hyderabad,dl research ai sql python powerbi ml,1545000
+25.0,7.0,PhD,Bangalore,ml sql python research excel,1520000
+32.0,11.6,Bachelors,Pune,ai sql leadership dl management powerbi ml,1215000
+32.0,5.0,None,Pune,management research powerbi ai,625000
+33.0,10.6,Masters,Ahmedabad,management sql powerbi excel ai,1460000
+43.0,18.0,Bachelors,Ahmedabad,sql python powerbi,1560000
+46.0,17.5,Bachelors,Delhi,research python ml sql,1715000
+31.0,13.0,None,Delhi,powerbi management research leadership python,1085000
+49.0,9.8,Masters,Pune,,1365000
+36.0,14.9,PhD,Ahmedabad,dl ai excel powerbi,1740000
+42.0,16.7,None,Delhi,sql excel management ai python,1520000
+23.0,5.0,Bachelors,Delhi,sql python excel dl,940000
+22.0,4.0,Masters,Bangalore,python powerbi ai dl management,1120000
+40.0,19.6,Masters,Bangalore,ml python ai dl powerbi leadership,2000000
+43.0,8.5,Bachelors,Bangalore,powerbi leadership ml python research management dl,1185000
+20.0,2.0,Bachelors,Mumbai,ml ai python,780000
+38.0,15.4,Masters,Delhi,sql excel powerbi python,1620000
+45.0,14.1,PhD,Mumbai,ml dl excel python powerbi research,1900000
+45.0,8.8,Masters,Bangalore,ml management python excel,1405000
+43.0,17.2,Bachelors,Bangalore,ai powerbi dl ml python,1760000
+35.0,16.7,Masters,Ahmedabad,sql management leadership excel,1490000
+40.0,19.1,Bachelors,Mumbai,ml sql excel ai python powerbi,1780000
+38.0,7.2,Masters,Delhi,python management ml sql excel leadership dl,0
+45.0,12.8,None,Ahmedabad,dl powerbi python sql ai,0
+39.0,5.1,None,Hyderabad,ml python management,780000
+48.0,15.1,Bachelors,Bangalore,powerbi dl ai excel python,1550000
+49.0,4.5,Bachelors,Bangalore,leadership powerbi,810000
+43.0,18.9,PhD,Pune,excel research powerbi sql dl,1970000
+48.0,1.4,PhD,Mumbai,management research,745000
+27.0,9.0,Masters,Delhi,management ml dl excel ai research powerbi,1350000
+21.0,3.0,Masters,Mumbai,ml python dl ai sql,1230000
+37.0,16.8,Bachelors,Mumbai,leadership ml sql research dl powerbi,1745000
+28.0,6.6,Masters,Mumbai,research ai excel,1005000
+24.0,6.0,Bachelors,Mumbai,sql ml python,935000
+46.0,2.7,PhD,Mumbai,python sql research dl ml,1335000
+35.0,11.8,Bachelors,Pune,management excel leadership,1140000
+26.0,8.0,Bachelors,Ahmedabad,management dl excel ai,850000
+49.0,1.4,Bachelors,Mumbai,research management excel ml,485000
+28.0,3.9,PhD,Hyderabad,management dl ai,1265000
+48.0,7.2,Bachelors,Mumbai,sql python leadership research ai excel,1050000
+40.0,3.0,Bachelors,Bangalore,ai leadership python,855000
+32.0,14.0,Bachelors,Delhi,excel sql research powerbi,1315000
+24.0,6.0,Bachelors,Bangalore,dl sql ai powerbi management excel,1035000
+25.0,7.0,Masters,Mumbai,ai ml dl research powerbi,1305000
+33.0,15.0,Bachelors,Delhi,research ai management dl python powerbi,1480000
+33.0,6.8,Bachelors,Delhi,sql dl powerbi,885000
+46.0,7.7,None,Delhi,leadership ml python excel management dl sql,1085000
+40.0,15.1,Masters,Bangalore,python powerbi research management,1620000
+22.0,4.0,Masters,Mumbai,sql ai research,1080000
+25.0,7.0,Masters,Pune,python powerbi ai sql ml dl research,1390000
+27.0,6.1,Masters,Mumbai,dl management ai sql excel ml python,1390000
+29.0,11.0,Bachelors,Ahmedabad,ml research sql management,1145000
+,4.0,Masters,Pune,sql excel python leadership research,995000
+22.0,4.0,Masters,Mumbai,ml dl,1065000
+37.0,6.8,Bachelors,Ahmedabad,dl ai powerbi excel ml,935000
+49.0,2.0,Bachelors,Hyderabad,powerbi python dl leadership,775000
+49.0,11.8,Bachelors,Delhi,powerbi sql ml,1175000
+29.0,4.2,Masters,Hyderabad,ai dl management ml excel,1040000
+40.0,15.4,Bachelors,Mumbai,,1485000
+29.0,11.0,Bachelors,Pune,management ml dl leadership python excel,1210000
+23.0,5.0,Masters,Pune,powerbi ml python dl ai excel,1065000
+43.0,14.0,Bachelors,Pune,leadership dl excel powerbi ml,1255000
+50.0,11.8,Masters,Bangalore,excel dl leadership ml python ai,1635000
+29.0,6.3,Bachelors,Hyderabad,python leadership ml excel,805000
+30.0,0.4,Masters,Hyderabad,,480000
+21.0,3.0,Masters,Mumbai,sql powerbi,995000
+36.0,7.3,Bachelors,Hyderabad,dl leadership powerbi python sql,1105000
+45.0,14.6,Bachelors,Bangalore,research dl sql python excel,1500000
+25.0,7.0,Bachelors,Bangalore,python powerbi sql research management excel,1075000
+46.0,14.3,Masters,Ahmedabad,ml sql python ai leadership,1645000
+32.0,14.0,PhD,Ahmedabad,sql leadership dl research ai ml,1845000
+25.0,3.0,None,Bangalore,python ai management dl,865000
+49.0,12.6,Bachelors,Ahmedabad,research powerbi dl sql ai management,1320000
+,8.1,Bachelors,Pune,ml dl sql,1090000
+20.0,2.0,Bachelors,Hyderabad,leadership powerbi sql management,685000
+43.0,3.9,Masters,Hyderabad,dl ai management python,0
+32.0,4.1,PhD,Ahmedabad,ml leadership python management sql,1260000
+32.0,7.4,Bachelors,Pune,management dl research python sql,1090000
+43.0,18.0,Bachelors,Hyderabad,sql research management python excel,1620000
+31.0,6.7,None,Mumbai,ai leadership dl sql powerbi management,950000
+32.0,9.3,Masters,Delhi,python dl powerbi,1320000
+34.0,5.7,Masters,Mumbai,leadership dl ai,1105000
+32.0,7.5,Masters,Delhi,ai leadership python excel,1210000
+39.0,17.7,Masters,Mumbai,ai ml python leadership research sql,1890000
+25.0,7.0,Masters,Mumbai,excel sql python management ai dl research,1430000
+21.0,3.0,Masters,Bangalore,ai leadership python dl,1075000
+37.0,17.0,Bachelors,Mumbai,excel ai python ml sql dl,1725000
+49.0,9.5,Bachelors,Ahmedabad,ai sql excel management research python powerbi,1045000
+38.0,5.8,Bachelors,Delhi,ai powerbi python ml,1070000
+23.0,1.7,None,Delhi,,445000
+46.0,17.4,Masters,Hyderabad,ai sql leadership python dl,1840000
+26.0,8.0,PhD,Pune,sql research dl leadership ai python ml,1660000
+20.0,2.0,Masters,Bangalore,ai sql excel,945000
+,9.9,Bachelors,Mumbai,powerbi sql excel research management ai python,1280000
+50.0,17.9,Bachelors,Mumbai,leadership powerbi research ai excel,1490000
+23.0,5.0,Masters,Bangalore,leadership dl ml python sql,1285000
+41.0,6.8,Masters,Ahmedabad,,1190000
+33.0,15.0,Masters,Bangalore,,1710000
+22.0,4.0,Bachelors,Bangalore,powerbi ml dl python,970000
+35.0,14.4,Bachelors,Bangalore,leadership powerbi ml excel python,1475000
+45.0,10.9,Masters,Ahmedabad,python management sql ml,1390000
+41.0,13.9,PhD,Delhi,dl research sql ml leadership python,1980000
+48.0,8.3,Bachelors,Mumbai,powerbi python excel sql ml,1225000
+44.0,18.5,Masters,Delhi,ml powerbi dl,1740000
+44.0,5.5,Bachelors,Mumbai,excel research management python dl sql,1010000
+21.0,3.0,Masters,Pune,sql dl management ai,860000
+47.0,18.8,Masters,Delhi,powerbi ml ai sql python leadership,1950000
+30.0,12.0,Masters,Pune,dl ai leadership excel python ml powerbi,1495000
+28.0,10.0,PhD,Hyderabad,,1550000
+47.0,15.8,None,Pune,dl excel powerbi ai management leadership,1260000
+49.0,6.7,Bachelors,Delhi,python management ml,940000
+38.0,7.6,Bachelors,Mumbai,leadership sql dl ai ml management research,0
+33.0,4.4,None,Hyderabad,sql dl management,695000
+23.0,5.0,Bachelors,Delhi,excel sql powerbi ai python research management,940000
+46.0,18.5,Bachelors,Bangalore,excel ai sql ml dl research,1765000
+,1.7,Bachelors,Mumbai,powerbi python sql,510000
+44.0,3.6,Bachelors,Hyderabad,leadership research sql python,680000
+44.0,0.9,PhD,Bangalore,,430000
+22.0,4.0,Bachelors,Hyderabad,excel dl powerbi research sql,805000
+23.0,1.7,Masters,Mumbai,powerbi python sql ai dl,745000
+39.0,7.1,Masters,Mumbai,ai research ml,1250000
+47.0,6.8,Bachelors,Pune,dl management ai excel python,965000
+47.0,3.5,Bachelors,Delhi,dl powerbi excel ml,840000
+,11.4,Masters,Pune,dl management powerbi ai,1375000
+47.0,3.7,Masters,Pune,powerbi ml dl excel python,1050000
+26.0,6.9,Bachelors,Delhi,excel dl sql powerbi,995000
+43.0,13.6,Masters,Hyderabad,leadership dl python research sql,1590000
+24.0,2.1,Masters,Mumbai,ai management sql research excel,1115000
+46.0,14.0,PhD,Delhi,dl research leadership ai python sql powerbi,1920000
+50.0,1.3,Bachelors,Bangalore,excel ai python,585000
+39.0,9.3,Bachelors,Pune,sql leadership powerbi,1050000
+,7.0,Masters,Ahmedabad,ai dl research python sql,1180000
+44.0,13.5,None,Delhi,python sql dl ml research excel leadership,1355000
+21.0,3.0,PhD,Bangalore,python ml powerbi sql,1370000
+23.0,5.0,Masters,Mumbai,ai python dl sql management,1265000
+31.0,13.0,Bachelors,Hyderabad,powerbi sql ml python management leadership,1290000
+26.0,8.0,Bachelors,Hyderabad,ml ai research management excel sql powerbi,995000
+40.0,18.4,Bachelors,Delhi,dl management sql ai powerbi,1705000
+46.0,8.6,PhD,Bangalore,python dl ml management research excel leadership,1570000
+33.0,12.7,Bachelors,Bangalore,,1355000
+31.0,8.7,Masters,Ahmedabad,ml dl research management ai sql python,1405000
+25.0,7.0,Masters,Delhi,ml management ai powerbi python research,1225000
+31.0,5.0,Masters,Ahmedabad,python sql research excel ml,995000
+43.0,1.3,Bachelors,Hyderabad,excel ai,465000
+29.0,3.0,PhD,Pune,python excel research ml,1250000
+46.0,5.5,None,Mumbai,management powerbi leadership dl,770000
+48.0,3.0,Bachelors,Mumbai,powerbi leadership ml dl,835000
+36.0,12.2,Bachelors,Pune,leadership excel sql ai research management,1245000
+30.0,2.6,Bachelors,Delhi,powerbi excel dl,675000
+28.0,10.0,Masters,Delhi,,1310000
+43.0,8.9,PhD,Ahmedabad,,1555000
+29.0,5.9,Bachelors,Mumbai,sql ml powerbi excel,955000
+27.0,7.9,Bachelors,Bangalore,python leadership excel management research powerbi,1215000
+46.0,13.8,Bachelors,Delhi,ml dl sql excel leadership python powerbi,1470000
+50.0,5.0,Masters,Bangalore,ml python research sql dl ai,1350000
+35.0,7.3,Bachelors,Hyderabad,excel ml powerbi,905000
+36.0,8.3,None,Hyderabad,management ml dl excel research sql python,1045000
+,2.2,Masters,Mumbai,management excel ml ai,905000
+50.0,14.9,PhD,Pune,leadership ml dl python,1830000
+33.0,1.2,Bachelors,Bangalore,research ai powerbi,450000
+21.0,3.0,None,Mumbai,management excel python ml sql,695000
+36.0,15.6,Masters,Hyderabad,sql python ai ml,1880000
+33.0,6.6,Bachelors,Delhi,research ml python excel sql,1020000
+26.0,7.2,Masters,Delhi,python powerbi management ai ml,1285000
+23.0,5.0,Masters,Ahmedabad,powerbi sql dl ml python,1190000
+25.0,7.0,Masters,Ahmedabad,powerbi python dl,1175000
+24.0,6.0,PhD,Delhi,ai python excel dl,1405000
+29.0,11.0,Masters,Bangalore,research dl ai python powerbi,1515000
+24.0,6.0,Bachelors,Pune,research ml powerbi leadership,830000
+24.0,2.7,Masters,Delhi,ai sql ml excel dl,1080000
+44.0,14.3,Masters,Mumbai,dl sql research leadership,1655000
+21.0,3.0,PhD,Bangalore,dl research leadership powerbi,1160000
+21.0,3.0,Bachelors,Ahmedabad,ml sql python,785000
+30.0,12.0,None,Ahmedabad,ml sql excel ai python dl leadership,1225000
+35.0,12.0,PhD,Pune,powerbi dl management research,1615000
+26.0,6.0,None,Bangalore,ai sql powerbi ml research,1005000
+24.0,6.0,Masters,Hyderabad,powerbi management ml python sql dl excel,1150000
+22.0,4.0,Masters,Delhi,leadership ai,955000
+26.0,0.3,None,Ahmedabad,dl,200000
+29.0,11.0,Bachelors,Bangalore,ai management python ml,1295000
+33.0,11.1,PhD,Mumbai,ml sql dl ai python,1990000
+42.0,5.2,Bachelors,Bangalore,sql leadership excel ml dl python powerbi,1155000
+26.0,8.0,Bachelors,Bangalore,dl python excel sql,1015000
+37.0,7.8,Masters,Mumbai,ai powerbi leadership ml dl,1290000
+28.0,10.0,Bachelors,Delhi,dl sql ai management powerbi research leadership,1175000
+32.0,9.2,Masters,Bangalore,python ai dl,0
+48.0,14.9,Masters,Bangalore,sql dl ml,1805000
+47.0,18.6,Masters,Mumbai,powerbi python ai excel management,1920000
+21.0,3.0,Masters,Bangalore,python research ml,1020000
+32.0,14.0,Bachelors,Ahmedabad,dl powerbi sql python,1505000
+38.0,2.3,Bachelors,Ahmedabad,sql dl research management leadership,680000
+50.0,10.3,Bachelors,Bangalore,leadership research python ai,1230000
+49.0,12.8,Bachelors,Bangalore,ml powerbi excel dl management sql leadership,1430000
+50.0,13.2,Bachelors,Bangalore,research leadership python ai powerbi sql excel,1465000
+29.0,11.0,Bachelors,Delhi,excel sql ml,1230000
+47.0,18.9,None,Bangalore,research python excel,1500000
+,10.5,Bachelors,Ahmedabad,powerbi research ml dl python excel,1115000
+26.0,3.2,Bachelors,Ahmedabad,ml python,640000
+48.0,2.9,Masters,Hyderabad,ai ml,865000
+22.0,3.0,Bachelors,Mumbai,excel powerbi management,760000
+36.0,16.3,None,Delhi,management powerbi sql python dl,1395000
+42.0,0.3,Masters,Ahmedabad,research dl excel,360000
+50.0,19.9,None,Hyderabad,ai powerbi ml,1520000
+32.0,14.0,Masters,Pune,ai research dl ml python excel,1695000
+20.0,2.0,Bachelors,Pune,ai ml management,655000
+41.0,11.2,Masters,Bangalore,management ml python ai research,1525000
+43.0,17.1,Bachelors,Bangalore,excel ai sql,1580000
+27.0,8.7,Masters,Hyderabad,powerbi management ai ml dl,1315000
+39.0,0.3,Masters,Hyderabad,dl python powerbi,490000
+33.0,3.0,Masters,Bangalore,ai python excel sql,1180000
+32.0,10.3,Masters,Bangalore,management ai powerbi,1450000
+22.0,4.0,Bachelors,Mumbai,python leadership sql ml,1000000
+43.0,4.6,Masters,Mumbai,dl excel ml sql,1050000
+41.0,5.2,Bachelors,Pune,excel python ml ai powerbi,835000
+32.0,14.0,Bachelors,Hyderabad,powerbi management ai research,1290000
+34.0,8.3,Masters,Bangalore,research ai excel python ml,1380000
+45.0,6.2,PhD,Ahmedabad,,1295000
+20.0,2.0,Masters,Hyderabad,ml powerbi sql management,925000
+,0.0,Masters,Pune,dl python,240000
+33.0,0.1,Bachelors,Bangalore,ai,305000
+42.0,6.4,None,Bangalore,ai excel ml python management leadership,935000
+39.0,18.0,Masters,Hyderabad,powerbi leadership excel sql python dl,1700000
+33.0,4.8,PhD,Mumbai,management ml python,1355000
+20.0,2.0,Bachelors,Mumbai,,755000
+26.0,8.0,Masters,Mumbai,,1235000
+23.0,5.0,Bachelors,Delhi,leadership management python ml dl research ai,0
+22.0,4.0,Bachelors,Hyderabad,,1030000
+,18.6,None,Delhi,excel python sql powerbi dl,1500000
+39.0,6.4,Bachelors,Mumbai,leadership ml research powerbi sql,965000
+29.0,1.3,PhD,Bangalore,leadership ml,890000
+,16.2,Bachelors,Ahmedabad,ml management sql ai,1520000
+20.0,2.0,None,Pune,powerbi excel leadership,375000
+36.0,6.0,Bachelors,Bangalore,management excel python sql powerbi ml research,975000
+25.0,2.4,Bachelors,Hyderabad,research excel,680000
+45.0,18.4,Bachelors,Hyderabad,python management sql leadership ml dl,1735000
+49.0,4.1,Bachelors,Bangalore,powerbi sql ml dl,960000
+38.0,11.1,Bachelors,Bangalore,powerbi dl research,1145000
+23.0,5.0,Masters,Mumbai,powerbi leadership management,950000
+25.0,6.4,Bachelors,Mumbai,excel management python,1025000
+27.0,7.8,None,Mumbai,management dl python,860000
+47.0,16.6,Masters,Mumbai,powerbi excel python sql ml leadership,1745000
+35.0,3.2,Masters,Delhi,leadership ml sql,905000
+37.0,6.1,Masters,Hyderabad,ml powerbi ai dl,1185000
+,11.0,Bachelors,Bangalore,powerbi ml management,1200000
+32.0,10.5,Bachelors,Bangalore,ml dl excel leadership,1265000
+29.0,11.0,Bachelors,Hyderabad,ai excel ml management dl python,1350000
+31.0,5.0,Bachelors,Bangalore,powerbi research dl,905000
+45.0,10.0,Bachelors,Mumbai,leadership ml dl,1150000
+21.0,1.6,Bachelors,Mumbai,management powerbi ai research excel,495000
+50.0,3.3,PhD,Hyderabad,dl ml,1355000
+33.0,7.1,Bachelors,Hyderabad,excel python sql leadership management powerbi,875000
+29.0,4.6,Masters,Hyderabad,dl python leadership powerbi ai,1145000
+20.0,2.0,None,Mumbai,leadership ai,560000
+21.0,3.0,PhD,Bangalore,,1375000
+31.0,13.0,PhD,Hyderabad,ml research python dl leadership management sql,1810000
+47.0,0.8,Bachelors,Delhi,sql ml management,310000
+24.0,6.0,Bachelors,Mumbai,sql python excel ai,1005000
+31.0,13.0,Masters,Bangalore,python excel ml powerbi research sql dl,1825000
+47.0,2.8,Bachelors,Mumbai,powerbi management ai dl excel,825000
+24.0,6.0,Bachelors,Delhi,powerbi dl excel sql ai,980000
+47.0,15.2,Masters,Bangalore,powerbi sql dl,1775000
+48.0,19.1,Bachelors,Hyderabad,management python research sql,1590000
+41.0,4.4,Bachelors,Mumbai,python powerbi research leadership excel,820000
+48.0,6.0,Bachelors,Bangalore,ai sql powerbi leadership excel,960000
+41.0,19.3,PhD,Ahmedabad,powerbi ml dl ai leadership excel research,2000000
+40.0,5.0,Bachelors,Ahmedabad,ai excel ml powerbi dl sql,930000
+23.0,2.5,Bachelors,Mumbai,powerbi dl sql ai,810000
+44.0,12.6,Bachelors,Mumbai,powerbi dl management excel,1270000
+37.0,9.5,PhD,Delhi,ai sql python ml management research,1675000
+21.0,3.0,Masters,Delhi,management dl sql,985000
+25.0,1.3,Masters,Pune,sql management excel,625000
+44.0,6.3,Bachelors,Bangalore,powerbi ml python,895000
+28.0,0.2,Masters,Hyderabad,ml management,405000
+28.0,10.0,Masters,Bangalore,management python dl ai,1580000
+50.0,6.4,Bachelors,Bangalore,ai python sql excel dl management leadership,1105000
+22.0,4.0,None,Bangalore,management research python powerbi,765000
+50.0,16.8,Masters,Bangalore,research dl excel powerbi sql management leadership,1785000
+47.0,3.0,PhD,Mumbai,ml python ai research dl,1280000
+41.0,8.7,Bachelors,Ahmedabad,powerbi research python leadership ai ml management,1080000
+31.0,0.3,Masters,Hyderabad,leadership ai dl,490000
+,13.4,Bachelors,Ahmedabad,python dl ai leadership powerbi sql,1335000
+28.0,10.0,Bachelors,Hyderabad,python powerbi leadership,1065000
+29.0,11.0,Masters,Ahmedabad,excel python ml research,1375000
+35.0,11.7,Bachelors,Pune,powerbi research ml python management ai sql,1380000
+48.0,4.1,Masters,Ahmedabad,ai management,785000
+46.0,19.1,Bachelors,Delhi,sql ai powerbi management leadership research python,1650000
+,3.5,Bachelors,Mumbai,excel ml,830000
+25.0,5.3,Bachelors,Delhi,sql ml leadership excel powerbi research management,820000
+20.0,2.0,Bachelors,Mumbai,python research ai powerbi,780000
+23.0,5.0,Masters,Delhi,python ml powerbi dl,1145000
+50.0,15.7,Masters,Bangalore,python dl powerbi management sql,1735000
+22.0,4.0,Masters,Ahmedabad,dl excel python sql,1055000
+26.0,8.0,Masters,Delhi,leadership sql ml dl management,1375000
+39.0,11.3,Masters,Ahmedabad,research python leadership excel,1305000
+38.0,15.6,Bachelors,Delhi,ai research powerbi sql,1370000
+30.0,0.3,Bachelors,Pune,research powerbi,200000
+27.0,5.8,Masters,Bangalore,ai powerbi ml,1170000
+40.0,18.6,Bachelors,Hyderabad,,1590000
+31.0,13.0,Masters,Hyderabad,dl excel python,1400000
+44.0,14.1,Masters,Bangalore,ai dl python research sql leadership ml,1800000
+40.0,13.1,Bachelors,Mumbai,python dl powerbi,1335000
+42.0,7.6,Bachelors,Mumbai,research sql powerbi management excel leadership ai,1020000
+25.0,3.5,Bachelors,Ahmedabad,excel leadership,610000
+50.0,14.6,Bachelors,Pune,management sql excel ml powerbi leadership,1350000
+21.0,3.0,Bachelors,Pune,,740000
+36.0,4.4,Masters,Delhi,powerbi python,1040000
+37.0,13.1,Bachelors,Bangalore,excel management ml,1460000
+23.0,5.0,PhD,Bangalore,excel research dl leadership,1370000
+45.0,8.0,Masters,Bangalore,ai sql research dl,1370000
+50.0,18.0,PhD,Hyderabad,python research ml sql,2000000
+27.0,9.0,Bachelors,Mumbai,ml excel research powerbi,1075000
+42.0,9.8,Masters,Ahmedabad,leadership excel powerbi ai sql,1290000
+23.0,3.8,None,Hyderabad,sql dl management ai excel,665000
+49.0,14.6,PhD,Pune,management ml python sql excel leadership dl,1885000
+21.0,3.0,Bachelors,Hyderabad,,670000
+45.0,2.3,Bachelors,Ahmedabad,sql python ml dl management,700000
+28.0,1.1,Bachelors,Mumbai,excel ml leadership,470000
+49.0,18.7,Bachelors,Ahmedabad,leadership ai powerbi research,1600000
+48.0,13.4,Bachelors,Bangalore,dl research excel ai powerbi sql,1565000
+44.0,4.5,Masters,Delhi,research ml dl,1065000
+28.0,10.0,Masters,Pune,management excel leadership,1185000
+33.0,11.1,Bachelors,Bangalore,leadership ml excel python,1280000
+33.0,15.0,Bachelors,Delhi,research excel powerbi sql ml leadership,1385000
+20.0,2.0,None,Bangalore,dl sql powerbi,580000
+,7.2,None,Pune,ai sql ml,780000
+27.0,9.0,Masters,Pune,research powerbi dl sql,1275000
+28.0,0.6,PhD,Bangalore,leadership ml,600000
+,11.8,PhD,Hyderabad,,0
+49.0,17.7,Masters,Bangalore,powerbi excel dl research leadership ai,1890000
+27.0,9.0,Masters,Pune,management dl ai research ml leadership powerbi,1275000
+35.0,1.5,Bachelors,Ahmedabad,excel python powerbi,480000
+50.0,2.3,Bachelors,Delhi,ai management dl,625000
+25.0,7.0,None,Hyderabad,sql leadership excel powerbi ai python,895000
+50.0,7.7,PhD,Bangalore,dl research ai ml leadership sql python,1755000
+32.0,13.3,Bachelors,Bangalore,management powerbi sql dl research,1500000
+27.0,9.0,Bachelors,Bangalore,management research excel sql,1185000
+31.0,13.0,Masters,Mumbai,dl powerbi python ml management,1545000
+29.0,8.8,Bachelors,Mumbai,ml research dl,1150000
+20.0,2.0,Masters,Mumbai,excel python ml dl ai,1075000
+24.0,6.0,Bachelors,Delhi,powerbi dl ai excel sql ml,945000
+48.0,1.2,Masters,Mumbai,python excel ai,0
+30.0,4.7,Bachelors,Ahmedabad,ai leadership research dl,825000
+27.0,9.0,Masters,Pune,ml dl research python ai sql,1435000
+22.0,4.0,Bachelors,Pune,sql excel management powerbi,735000
+23.0,5.0,Bachelors,Bangalore,leadership powerbi excel ai python,1050000
+50.0,9.2,Masters,Delhi,powerbi ml sql python,1305000
+39.0,2.8,Bachelors,Bangalore,dl ai,875000
+34.0,16.0,Masters,Bangalore,powerbi python leadership ai management dl sql,1780000
+43.0,14.8,Masters,Mumbai,leadership sql ai excel python,1835000
+37.0,11.2,Bachelors,Delhi,ai dl excel python leadership ml,1330000
+43.0,1.8,Masters,Ahmedabad,sql ai research,640000
+32.0,14.0,Bachelors,Mumbai,excel python management,1425000
+36.0,15.5,Bachelors,Bangalore,ai ml leadership excel,1425000
+29.0,3.0,PhD,Delhi,ai powerbi research,1115000
+41.0,6.0,Masters,Delhi,ai leadership dl research python excel,1270000
+38.0,7.4,PhD,Pune,research ml python dl leadership excel,1430000
+46.0,1.7,Bachelors,Bangalore,dl python,565000
+30.0,7.2,Bachelors,Hyderabad,ai excel sql ml research python,1125000
+24.0,6.0,Masters,Delhi,python sql powerbi,1170000
+44.0,6.9,None,Mumbai,management dl ml powerbi ai python excel,990000
+40.0,5.9,Bachelors,Mumbai,sql excel powerbi leadership research,885000
+,1.6,Bachelors,Hyderabad,leadership ml,555000
+39.0,19.3,Masters,Mumbai,ai python powerbi,1840000
+34.0,16.0,Masters,Mumbai,excel ml python,1690000
+40.0,1.1,Masters,Mumbai,dl python ai,770000
+37.0,5.3,Bachelors,Bangalore,ai management ml sql powerbi,1050000
+40.0,3.5,Masters,Bangalore,python ai,1085000
+20.0,1.3,Masters,Hyderabad,ml dl python,590000
+47.0,11.7,Masters,Delhi,powerbi dl ai,1355000
+21.0,3.0,Masters,Delhi,dl leadership ml powerbi,930000
+29.0,5.6,Bachelors,Bangalore,sql ml research leadership management,1010000
+40.0,18.1,Masters,Pune,dl ml leadership research,1775000
+24.0,6.0,Masters,Ahmedabad,ml python excel ai management,1025000
+25.0,7.0,Bachelors,Delhi,,950000
+21.0,3.0,Bachelors,Delhi,dl excel python leadership,0
+49.0,4.6,None,Mumbai,ml sql management dl ai,870000
+44.0,11.0,Masters,Ahmedabad,leadership powerbi python ml sql ai excel,1500000
+25.0,7.0,Masters,Hyderabad,management python ai sql,1190000
+22.0,4.0,Masters,Mumbai,python leadership management ml ai,1100000
+37.0,15.1,Bachelors,Delhi,dl excel management python,1460000
+31.0,3.8,Bachelors,Bangalore,python leadership sql,890000
+35.0,3.6,Masters,Bangalore,management ai,1055000
+35.0,11.7,None,Delhi,excel sql dl powerbi leadership research,1045000
+32.0,14.0,Bachelors,Mumbai,dl management research leadership ml excel,1515000
+35.0,16.0,PhD,Pune,ai ml leadership management,1820000
+40.0,18.4,None,Bangalore,excel ml ai python powerbi,1690000
+22.0,4.0,PhD,Bangalore,leadership python dl research,1435000
+41.0,4.9,Bachelors,Mumbai,dl ml management sql research,990000
+47.0,19.1,Bachelors,Bangalore,python powerbi excel,1760000
+33.0,9.5,Bachelors,Bangalore,ml python research,1180000
+47.0,11.4,Masters,Bangalore,python ai excel dl ml management,1630000
+30.0,12.0,Masters,Pune,sql powerbi management ai,1420000
+49.0,5.2,Masters,Delhi,management ai powerbi,1035000
+41.0,2.1,None,Bangalore,sql python,640000
+22.0,1.7,Bachelors,Delhi,powerbi management,435000
+37.0,13.7,PhD,Mumbai,research python dl,1900000
+45.0,0.2,Bachelors,Delhi,python management,220000
+50.0,5.8,Bachelors,Pune,excel dl powerbi management python ml,995000
+29.0,1.9,Masters,Bangalore,sql leadership powerbi ml,785000
+48.0,6.7,Bachelors,Bangalore,ai sql ml python,1155000
+38.0,10.5,Masters,Bangalore,ai powerbi python sql,1395000
+37.0,7.3,Masters,Delhi,ai sql ml dl,1250000
+33.0,0.6,None,Mumbai,excel,220000
+29.0,10.1,Masters,Hyderabad,ai management python,1320000
+30.0,11.6,Masters,Bangalore,excel ai research python sql dl,1775000
+39.0,0.0,Bachelors,Mumbai,dl,385000
+30.0,6.5,Masters,Delhi,excel ai research management python,1045000
+42.0,13.6,Masters,Bangalore,sql excel python research,1565000
+27.0,8.5,Masters,Bangalore,sql management excel leadership,1300000
+,14.6,Masters,Delhi,,1660000
+36.0,3.1,Masters,Mumbai,dl sql leadership management powerbi,1000000
+29.0,11.0,Bachelors,Hyderabad,sql dl ml python,1330000
+45.0,5.7,Bachelors,Mumbai,research powerbi management sql dl excel python,1095000
+45.0,8.8,Masters,Bangalore,excel powerbi ml ai leadership research,1200000
+35.0,8.7,Masters,Delhi,leadership dl research sql,1330000
+32.0,7.5,Bachelors,Pune,sql management ml leadership excel dl,960000
+23.0,0.0,Masters,Mumbai,leadership,430000
+35.0,8.1,None,Pune,sql ai ml powerbi excel management,830000
+27.0,9.0,Masters,Mumbai,ai ml research leadership python,1360000
+48.0,1.0,Masters,Delhi,research excel ai sql,660000
+23.0,5.0,Masters,Hyderabad,leadership sql dl ml management,0
+44.0,10.1,Masters,Hyderabad,python dl leadership research,1295000
+50.0,9.5,Masters,Pune,ml management python,1325000
